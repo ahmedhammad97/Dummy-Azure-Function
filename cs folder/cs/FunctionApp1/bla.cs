@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace FunctionApp1
 {
-    public static class bla
+    public class bla
     {
         string x;
     }
